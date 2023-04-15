@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "626055682905",
+    "project_id": "facerecog-1f2b5",
+    "storage_bucket": "facerecog-1f2b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626055682905:android:2507f9350b097989c7ca48",
+        "android_client_info": {
+          "package_name": "com.example.facerecog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626055682905-ocjkvacf2iij934cs84fq6bri3t0gka0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJKy0qTfKgEl1lnXFJ7-cLXLbYlI3A8e0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "626055682905-ocjkvacf2iij934cs84fq6bri3t0gka0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
